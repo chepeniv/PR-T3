@@ -1,0 +1,45 @@
+scenario:
+
+	**update your team and project manager on the current project status**
+
+	you're a junior dev working with a team adding a new feature to an existing
+	web app. the feature involves adding a section to the user profile wherein
+	customers can update their personal information. a small delay has been
+	encountered due to unanticipated required changes to the database schema.
+	the project manager asked for an update summarizing the current status of
+	the implementation including what's completed, what's pending, and any
+	challenges encountered. team members are relying on this update so that
+	they can deduce the next steps, and the project manager will use it to
+	adjust the timeline as needed.
+
+	- design the user profile interface
+	- implement frontend form elements for the user profile
+	- set up backend logic to handle profile data submission
+	- adjust the database schema to accommodate new profile fields
+	- integrate API calls for fetching and updating user data
+	- develop validation rules for user input on the profile form
+	- write unit test for the new profile features
+
+################################################################
+
+subject:
+
+	update: implementing a personal information section to user profiles
+
+################################################################
+
+greeting:
+
+	for all whom it may concern,
+
+	primary issue
+
+body:
+
+sign-off:
+
+	Regards,
+	Jose N. Olmos
+	Junior Dev with the
+	918.703.1949
+	jose.olmos@atlasschool.com
