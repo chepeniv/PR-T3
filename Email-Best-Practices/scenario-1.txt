@@ -12,19 +12,11 @@ scenario:
 	they can deduce the next steps, and the project manager will use it to
 	adjust the timeline as needed.
 
-	- design the user profile interface
-	- implement frontend form elements for the user profile
-	- set up backend logic to handle profile data submission
-	- adjust the database schema to accommodate new profile fields
-	- integrate API calls for fetching and updating user data
-	- develop validation rules for user input on the profile form
-	- write unit test for the new profile features
-
 ################################################################
 
 subject:
 
-	update: implementing a personal information section to user profiles
+	progress on implementing a personal information section for user profiles
 
 ################################################################
 
@@ -32,14 +24,37 @@ greeting:
 
 	for all whom it may concern,
 
-	primary issue
-
 body:
+
+	before summarizing what has been accomplished thus far and what's well
+	in-the-works, i want to address the primary issue encountered. there are
+	changes that must be carried out in the database schema if we wish to fully
+	deliver on this update. obviously, our lead will have have the final say,
+	but i propose that we rewrite the schema from the ground up and roll out the
+	feature in chunks over the course of several weeks so as to not have to
+	migrate our entire database all at once. this should be less risky and far
+	more manageable. regardless of the final call, i have sufficient elbow
+	grease to see it through.
+
+	all the easy stuff is out of the way. the basic layout and design of the
+	interface is in place along with all the needed frontend elements. moreover,
+	in the prototype build, we have already setup the basic backend logic for
+	data submission and input validation.
+
+	two of our other colleagues are handling the API-end of things and we're in
+	constant communication. they intend to send out their own status update as
+	well later on today.
+
+	with regards to the unit test, one of my peers is guiding me through with
+	that, thankfully. it's been a while since i've done them and i'm not yet
+	fully familiar with internal standards, and so i'm not confident enough to
+	do them on my own just yet. in any case, this is what i will be focusing on
+	until i get a word on our leads final decision.
 
 sign-off:
 
 	Regards,
 	Jose N. Olmos
-	Junior Dev with the
+	Junior Dev
 	918.703.1949
 	jose.olmos@atlasschool.com
