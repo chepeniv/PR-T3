@@ -15,18 +15,31 @@ scenario:
 
 subject:
 
+	bug report response - possible misunderstanding
+
 ################################################################
 
 greeting:
 
-	for all whom it may concern,
+	John Doe (QA Team),
 
 body:
+
+	topic: tool doesn't save user settings correctly
+
+	findings:
+		their expected usage
+
+	intended usage
+		instructions
+
+	solution: clarifying usage
 
 sign-off:
 
 	Regards,
 	Jose N. Olmos
 	Entry-level Developer
+	Internal Systems Dept.
 	918.703.1949
 	jose.olmos@atlasschool.com
