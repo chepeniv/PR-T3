@@ -21,11 +21,12 @@ subject:
 
 greeting:
 
-	John Doe (QA Team),
+	John Doe (Software QA Team),
 
 body:
 
-	topic: tool doesn't save user settings correctly
+	review:
+		topic: tool doesn't save user settings correctly
 
 	findings:
 		their expected usage
