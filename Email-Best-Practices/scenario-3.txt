@@ -14,7 +14,7 @@ scenario:
 
 subject:
 
-	request for clarification: feedback form fields and data handling
+	request for clarification on feedback form fields and data handling
 
 ################################################################
 
@@ -24,11 +24,34 @@ greeting:
 
 body:
 
-	what are the requirements
+	given that i was tasked with creating the feedback form, and few details
+	where given, i was wondering a few things about which fields to include,
+	what rules for each, and where to sendoff or store the data.  i also have a
+	question or two about the form's overall context. is there some
+	documentation i missed ?
 
-	where to find info
+	i looked at how various other websites have done it, and i have come up with
+	few ideas; i even have a preliminary prototype, but i wanted to verify with
+	you on what the end-result should be.
 
-	expectations
+	i present my inquiries chronologically here:
+
+	- should the visitor already be logged in ?
+	- which fields should be required ?
+	- should we mandate they select a category (corresponding to our various
+	  departments and teams)
+		- for example, "product review" could be sent to marketing, "feature
+		  request" could be sent to the development team, "bugs" to QA, etc.
+	- once the form is submitted where should it go ?
+	  	- is there already a predefined destination ?
+		- should i create a new internal database ?
+			- who should manage it, who can access it ?
+	- furthermore, i could automate internal emails that would notify the
+	  relevant unit about feedback they could take a look at
+
+	overall how should this new feature fit into the current way we do things ?
+	am i over-extending something that should be simpler and more
+	straightforward here ?
 
 sign-off:
 
