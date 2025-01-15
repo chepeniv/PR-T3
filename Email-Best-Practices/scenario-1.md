@@ -22,7 +22,7 @@ Progress Implementing a Personal Information Section for User Profiles
 
 For all whom it may concern,
 
-Before summarizing what has been accomplished thus far and what's well
+    Before summarizing what has been accomplished thus far and what's well
 in-the-works, I want to address the primary issue encountered. There are
 changes that must be carried out in the database schema if we wish to fully
 deliver on this update. Obviously, our lead will have have the final say,
@@ -32,23 +32,23 @@ migrate our entire database all at once. This should be less risky and far
 more manageable. Regardless of the final call, I have sufficient elbow
 grease to see it through.
 
-All the easy stuff is out of the way. The basic layout and design of the
+    All the easy stuff is out of the way. The basic layout and design of the
 interface is in place along with all the needed frontend elements. Moreover,
 in the prototype build, we have already setup the basic backend logic for
 data submission and input validation.
 
-Two of our other colleagues are handling the API-end of things and we're in
+    Two of our other colleagues are handling the API-end of things and we're in
 constant communication. They intend to send out their own status update as
 well, later on today.
 
-With regards to the unit test, one of my peers is guiding me through with
+    With regards to the unit test, one of my peers is guiding me through with
 that, thankfully. It's been a while since I've done them and I'm not yet
 fully familiar with internal standards, and so I'm not confident enough to
 do them on my own just yet. In any case, this is what I will be focusing on
 until I get a word on our leads final decision.
 
-Regards,
-Jose N. Olmos
-Junior Dev
-918.703.1949
+Regards,\
+Jose N. Olmos\
+Junior Dev\
+918.703.1949\
 jose.olmos@atlasschool.com
