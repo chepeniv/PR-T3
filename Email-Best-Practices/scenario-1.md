@@ -39,10 +39,10 @@ data submission and input validation.
 
 	Two of our other colleagues are handling the API-end of things and we're in
 constant communication. They intend to send out their own status update as
-well later on today.
+well, later on today.
 
 	With regards to the unit test, one of my peers is guiding me through with
-that, thankfully. It's been a while since i've done them and I'm not yet
+that, thankfully. It's been a while since I've done them and I'm not yet
 fully familiar with internal standards, and so I'm not confident enough to
 do them on my own just yet. In any case, this is what I will be focusing on
 until I get a word on our leads final decision.

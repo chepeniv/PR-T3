@@ -15,7 +15,7 @@ specific instructions, and offer help if the issue persist
 
 # Subject Line
 
-Recent Bug Report - Possible Misunderstanding of Saving User Settings
+Recent Bug Report - Possible Misunderstanding when Saving User Settings
 
 # Body:
 
