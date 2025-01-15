@@ -16,40 +16,40 @@ scenario:
 
 subject:
 
-	progress on implementing a personal information section for user profiles
+	Progress Implementing a Personal Information Section for User Profiles
 
 ################################################################
 
 greeting:
 
-	for all whom it may concern,
+	For all whom it may concern,
 
 body:
 
-	before summarizing what has been accomplished thus far and what's well
-	in-the-works, i want to address the primary issue encountered. there are
+	Before summarizing what has been accomplished thus far and what's well
+	in-the-works, I want to address the primary issue encountered. There are
 	changes that must be carried out in the database schema if we wish to fully
-	deliver on this update. obviously, our lead will have have the final say,
-	but i propose that we rewrite the schema from the ground up and roll out the
+	deliver on this update. Obviously, our lead will have have the final say,
+	but I propose that we rewrite the schema from the ground up and roll out the
 	feature in chunks over the course of several weeks so as to not have to
-	migrate our entire database all at once. this should be less risky and far
-	more manageable. regardless of the final call, i have sufficient elbow
+	migrate our entire database all at once. This should be less risky and far
+	more manageable. Regardless of the final call, I have sufficient elbow
 	grease to see it through.
 
-	all the easy stuff is out of the way. the basic layout and design of the
-	interface is in place along with all the needed frontend elements. moreover,
+	All the easy stuff is out of the way. The basic layout and design of the
+	interface is in place along with all the needed frontend elements. Moreover,
 	in the prototype build, we have already setup the basic backend logic for
 	data submission and input validation.
 
-	two of our other colleagues are handling the API-end of things and we're in
-	constant communication. they intend to send out their own status update as
+	Two of our other colleagues are handling the API-end of things and we're in
+	constant communication. They intend to send out their own status update as
 	well later on today.
 
-	with regards to the unit test, one of my peers is guiding me through with
-	that, thankfully. it's been a while since i've done them and i'm not yet
-	fully familiar with internal standards, and so i'm not confident enough to
-	do them on my own just yet. in any case, this is what i will be focusing on
-	until i get a word on our leads final decision.
+	With regards to the unit test, one of my peers is guiding me through with
+	that, thankfully. It's been a while since i've done them and I'm not yet
+	fully familiar with internal standards, and so I'm not confident enough to
+	do them on my own just yet. In any case, this is what I will be focusing on
+	until I get a word on our leads final decision.
 
 sign-off:
 
