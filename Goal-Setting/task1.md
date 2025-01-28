@@ -9,7 +9,7 @@ n         |
 t   III   |   IV
 ^         |
 
-# quadrant I - important and urgent (EXECUTE)
+# quadrant I - important and urgent (CRISES|EXECUTE)
 
 schedule a refinancing appointment with linda ?
 check, plan, and complete PR coursework
@@ -20,13 +20,13 @@ let dogs out
 do laundry
 do dishes
 
-# quadrant II - not important yet urgent (DELEGATE|QUEUE)
+# quadrant II - not important yet urgent (DELEGATE)
 
 buy tickets
 secure a reliable vehicle for the event
 get drinks for saturday
 
-# quadrant III - important yet not urgent (SCHEDULE)
+# quadrant III - important yet not urgent (MAINTENANCE|POSTPONE)
 
 help brother with building a spreadsheet
 build and maintain good relations
