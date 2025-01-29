@@ -51,6 +51,8 @@ also update your cover photo to something representative of you.
 
 ## Task 4 - About Section (2pts)
 
+- [x] -
+
 a concise about section is fine if you're well established or are passively
 looking. your goal is to stand out, demonstrate enthusiasm, communication
 skills, and confidence in your technical skillset. really share who you are and
