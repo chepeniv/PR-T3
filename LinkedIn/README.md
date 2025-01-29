@@ -16,6 +16,8 @@ experience that couldn't fit on your resume.
 
 ## Task 0 - Customize and Share (2pts)
 
+- [x] -
+
 create a custom linkedin url for your profile
 
 ## Task 1 - Connect (3pts)
@@ -34,9 +36,13 @@ someone's content or asks a question
 
 ## Task 2 - Headline Update (1pts)
 
+- [x] -
+
 select a headline based on what roles you'd be applying for
 
 ## Task 3 - Profile and Cover Photo (4pts)
+
+- [x] -
 
 add a professional headshot. if possible make this photo consistent across all
 platforms.
@@ -76,6 +82,8 @@ only include atlas in your education section. include:
 
 ## Task 7 - Skill Endorsement (2pts)
 
+- [x] -
+
 add at least 10 skills:
 - languages, frameworks
 - project mgmt tools
@@ -92,5 +100,7 @@ for endorsements
 - add your linkedin to your email signature
 
 ## Task 9 - Public Profile (1pts)
+
+- [x] -
 
 ensure all relevant parts are visible to the public
