@@ -72,6 +72,37 @@ show who you are and why you're full of potential
 
 ## rough draft
 
+from abstract concepts down to technical details, i like to comprehend systems
+at all levels. i'm driven by novelty and the pursuit of understanding ideas
+today that were seemingly intractable just a day before. and if the tools
+offered to me are inadequate i will create a new framework or a new language in
+order to achieve that aim. i don't see the humor in having things be inscribed
+in an esoteric tongue when simple words will do. i let authority have it's
+place, but i will not yield my mind to it on it's own. i need reasons.
+
+i value elegance in my work and i actually enjoy optimizing and debugging code.
+i'd like to think too, that i'm known for my technical prowess.
+
+i'm most at peace when researching, working out problems, programming, writing,
+or making music, even though, oddly, i can get a shot of adrenaline when i'm
+deep in my work at 4 in the morning.
+
+i know i may seems as a serious kind of fella, but those who've known me the
+longest could say otherwise. when comfortable, i'm downright goofy. nonetheless,
+i really do appreciate my freedom, space, and solitude. i cannot work without
+them.
+
+for fun, i like to thrash, lift, and ride really fast. i love to be kind and
+gentle, and i'm hard to take offence. i love to say nothing when i know i have
+nothing to say. i enjoy being before the presence of nature and pondering the
+vastness of time and staring off into the deep space of a night sky.
+
+the narrative to my life i lost long ago. i gave up on making sense on what my
+life was about. the longer you know me the more apparent you'd see that i'm
+really into melancholy and tragedy. through music and writing, i like to get
+into and explore all my fear and rage. to me, to there's no such thing as
+"negative" emotions, only negative ways of handling them.
+
 <!--
 former street kid. i enjoy and respect manual labor and artisan crafts. i have
 been many people and see my self as been well rounded and integrated.
