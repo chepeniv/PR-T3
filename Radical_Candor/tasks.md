@@ -1,5 +1,7 @@
 # tasks
 
+answer with a minimum of two sentences for each question.
+
 # 0. upload google doc (1pts)
 
 include a google doc that includes tasks 1-6. title each section with the task
@@ -7,8 +9,6 @@ number and name. set the permissions to allow for commenting by "anyone with
 the link"
 
 # 1. radical candor (13pts)
-
-answer with a minimum of two sentences for each question.
 
 ### A.
 
