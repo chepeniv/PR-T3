@@ -61,6 +61,8 @@ started. appreciate how far you've come and identify areas of growth.
    started
 	- were there any technical concepts or skills that were particularly
 	  challenging for you ?
+	- did you face any difficulties in adapting to the learning environment or
+	  collaborating with peers ?
 	- how did you navigate these challenges and what did you learn from them ?
 
 4. create a journal entry summarizing your reflections -- include at least one
