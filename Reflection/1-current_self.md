@@ -65,5 +65,5 @@ one thing i cherish is the general non-technical life and work, advice and
 feedback i've gotten from both instructors and fellow students. everyone here
 has their own original insight into life and problems, and so it's helpful to
 hear their takes on various issues. i'm glad that whenever i've come seeking
-guidance from others their response and perspective has quite often been
+guidance from others their response and perspective have quite often been
 helpful.
