@@ -21,4 +21,5 @@ attach a link to a pdf version of your resume.
 
 ## resources
 
-- []()
+- [[file:./references/atlas-resume_standards.pdf|seven standards]]
+- [[file:./references/atlas-resume_checklist.pdf|resume checklist]]
