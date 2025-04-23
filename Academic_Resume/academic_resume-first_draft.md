@@ -35,25 +35,29 @@ Cook/Cashier/Inventory Management 2003-2008
 # Projects
 
 ## maze generating python algorithm
+developed the user interface, game mechanics, and maze generating algorithm
 https://github.com/chepeniv/tourist_sim
-December, 2024
-<< title >>
-<< role >>
-<< link >>
-<< month/year completion >>
-<< bulleted list describing process and outcomes >>
+completed December, 2024
+- process/outcomes
 
 ## atlas air b-n-b clone
+lead the construction of a complex web service throughout various phases of
+development
 https://github.com/chepeniv/atlas-AirBnB_clone_v4
 December, 2024
+- process/outcomes
 
 ## bash language subset interpretor
+built a robust language interpretor for a subset of the bash language
 https://github.com/chepeniv/atlas-shell_v2
 February, 2025
+- process/outcomes
 
 ## ls
+primary
 https://github.com/chepeniv/atlas-system_linux/tree/master/ls
 January, 2025
+- process/outcomes
 
 # Skills
 
