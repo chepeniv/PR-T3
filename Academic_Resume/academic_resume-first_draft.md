@@ -35,7 +35,8 @@ Cook/Cashier/Inventory Management 2003-2008
 # Projects
 
 ## maze generating python algorithm
-
+https://github.com/chepeniv/tourist_sim
+December, 2024
 << title >>
 << role >>
 << link >>
@@ -43,10 +44,16 @@ Cook/Cashier/Inventory Management 2003-2008
 << bulleted list describing process and outcomes >>
 
 ## atlas air b-n-b clone
+https://github.com/chepeniv/atlas-AirBnB_clone_v4
+December, 2024
 
 ## bash language subset interpretor
+https://github.com/chepeniv/atlas-shell_v2
+February, 2025
 
 ## ls
+https://github.com/chepeniv/atlas-system_linux/tree/master/ls
+January, 2025
 
 # Skills
 
