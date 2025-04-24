@@ -15,14 +15,18 @@ NOTES:
 # Education
 
 Diploma in Computer Science and Linux Systems Programming (December 2025)
-Atlas School, Tulsa, Oklahoma
+Atlas School - Tulsa, Oklahoma
 
-challenging, teamwork, self-efficacy, research, ambiguity, communication,
-project management, connecting with others, supporting each other, seeking
-guidance, learning about the industry, resources, feedback, advice, initiative,
+overall Atlas offers a challenging rigorous curriculum where students have to
+develop their self efficacy, research skills, and their ability to take
+initiative in the face of ambiguity. it provides a safe and comfortable
+environment wherein students can find technical guidance, industry advice, and
+feedback. crucial to it's mission, Atlas fosters an environment wherein students
+support each other and connect. they must also learn to teamwork and communicate
+effectively.
 
 Completed 54 hours towards a degree in Physics
-Tulsa Community College, Tulsa, Oklahoma
+Tulsa Community College - Tulsa, Oklahoma
 
 # Work Experience
 
@@ -34,26 +38,26 @@ Cook/Cashier/Inventory Management 2003-2008
 
 # Projects
 
-## maze generating python algorithm
+## Tourist Sim (Game)
 developed the user interface, game mechanics, and maze generating algorithm
 https://github.com/chepeniv/tourist_sim
 completed December, 2024
 - process/outcomes
 
-## atlas air b-n-b clone
+## Atlas AirBnb Clone
 lead the construction of a complex web service throughout various phases of
 development
 https://github.com/chepeniv/atlas-AirBnB_clone_v4
 December, 2024
 - process/outcomes
 
-## bash language subset interpretor
+## Bash Shell Clone
 built a robust language interpretor for a subset of the bash language
 https://github.com/chepeniv/atlas-shell_v2
 February, 2025
 - process/outcomes
 
-## ls
+## /usr/bin/ls Clone
 primary
 https://github.com/chepeniv/atlas-system_linux/tree/master/ls
 January, 2025
@@ -63,7 +67,7 @@ January, 2025
 
 ## background
 
-Unix operating systems, microarchitecture, compilers, network architecture
+Unix operating systems, microarchitecture, compilers, and network architecture
 
 ## mathematics
 
@@ -78,9 +82,9 @@ formal logic, and trigonometry
 
 ## software
 
-- `linux`, gnu libc, vim, gnu debugger, gnu make, git
-- most DAWs such as Logic Pro, Ableton, Bitwig
-- inkscape software vector graphics (svg) editor
+- linux, gnu libc, vim, gnu debugger, gnu make, git
+- a variety of Digital Audio Workstation such as Logic Pro, Ableton, and Bitwig
+- the Inkscape software vector graphics (svg) editor
 
 ## creative
 
