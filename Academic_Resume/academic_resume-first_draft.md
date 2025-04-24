@@ -5,25 +5,18 @@ Tulsa, OK
 https://www.linkedin.com/in/chepeniv/
 https://github.com/chepeniv
 
-<!--
-NOTES:
-- use brief bullet points
-- start each point with strong tense-appropriate action verb
-- quantify results wherever possible to demonstrate impact
--->
-
 # Education
 
 Diploma in Computer Science and Linux Systems Programming (December 2025)
 Atlas School - Tulsa, Oklahoma
 
 overall Atlas offers a challenging rigorous curriculum where students have to
-develop their self reliance, research skills, and their ability to take
-initiative in the face of ambiguity. it provides a safe and comfortable
-environment wherein students can find technical guidance, industry advice, and
-feedback. crucial to it's mission, Atlas fosters an environment wherein students
-support each other, connect, and develop their self efficacy. they must also
-learn to teamwork and communicate effectively.
+develop self reliance, research skills, and an ability to take initiative in the
+face of ambiguity. it provides a safe and comfortable environment wherein
+students can find technical guidance, industry advice, and feedback. crucial to
+its mission, Atlas fosters an environment wherein students support each other,
+connect, and develop their self efficacy. they must also learn to teamwork and
+communicate effectively.
 
 Completed 54 hours towards a degree in Physics
 Tulsa Community College - Tulsa, Oklahoma
@@ -39,8 +32,10 @@ Cook/Cashier/Inventory Management 2003-2008
 # Projects
 
 ## Tourist Sim (Game) - December, 2024
+
 https://github.com/chepeniv/tourist_sim
 developed the user interface, game mechanics, and maze generating algorithm
+
 - created an abstract, simple, and practical user interface for each element
 - designed and implemented all game mechanics
 - created a maze generator and encoding along with it's rendering engine
@@ -48,17 +43,21 @@ developed the user interface, game mechanics, and maze generating algorithm
   lecture on the algorithm i developed
 
 ## Atlas AirBnb Clone - December, 2024
+
 https://github.com/chepeniv/atlas-AirBnB_clone_v4
 lead the construction of a complex web service throughout various phases of
 development
-- process
-- process
-- outcomes
-- outcomes
+
+- developed each of the major components in stages with different teams
+- carried over and maintained codebase throughout the various iterations
+- guided team members through challenges and concepts
+- developed a reputation for quality code and dependability
 
 ## Bash Shell Clone - February, 2025
+
 https://github.com/chepeniv/atlas-shell_v2
 built a robust language interpretor for a subset of the bash language
+
 - decided on direct interpretation over a data structure approach to execute
   sets of complex instructions
 - built the interpreter in prototypes which where then incorporated together
@@ -66,12 +65,14 @@ built a robust language interpretor for a subset of the bash language
 - created the most advanced and reliable version of project
 
 ## /usr/bin/ls Clone - January, 2025
+
 https://github.com/chepeniv/atlas-system_linux/tree/master/ls
 replicated a core Unix functionality from the ground up
-- process
-- process
-- outcomes
-- outcomes
+
+- integrated and applied knowledge acquired on linux systems
+- navigated and implemented the gnu c library
+- covered for team member who couldn't be available due to circumstances
+- created a pretty solid and elegant codebase
 
 # Skills
 
@@ -99,4 +100,3 @@ calculus, algorithms, formal logic, and trigonometry
 ## creative
 
 music theory, music composition, sound design, and mixing and mastering
-
