@@ -4,12 +4,13 @@
 
 ## Questions
 
-- what will be the hours for PLDs for PR ?
+- since we're only doing PR, what will be the hours for PLDs ?
 - will we have to completely remake previously completed projects or will
   updating and modifying be enough for those ?
+- how soon can we complete the InStage interviews or any task for that mater ?
 
 # Email Best Practices
-- Completed (Previously)
+- READY
 
 # Goal Setting
 - Completed (Previously)
@@ -18,34 +19,42 @@
 - Completed (Previously)
 
 ## InStage Interview #1
-- Interpersonal
+
+- [ ] add README
 
 # Intro to HIRED System
 - Partially Completed
+- [ ] add README
 
 ## Attend Networking Event
-- Interpersonal
+
+- [ ] add README
 
 # Radical Candor
 - Partially Completed
 
 ## InStage Interview #2
-- Interpersonal
+
+- [ ] add README
 
 # Reflection
 - Completed (Previously)
 
 ## InStage Interview #3
-- Interpersonal
+
+- [ ] add README
 
 # Best Self Narrative
 - Never Started
+- update description md files
 
 # Financial Literacy
 - Never Started
+- update description md files
 
 # Resume First Draft
 - Completed (Previously)
 
 # Professional LinkedIn Post
 - Never Started
+- [ ] add README
