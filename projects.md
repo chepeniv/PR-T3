@@ -1,3 +1,13 @@
+# Tasks
+
+- [ ] update READMEs
+
+## Questions
+
+- what will be the hours for PLDs for PR ?
+- will we have to completely remake previously completed projects or will
+  updating and modifying be enough for those ?
+
 # Email Best Practices
 - Completed (Previously)
 
