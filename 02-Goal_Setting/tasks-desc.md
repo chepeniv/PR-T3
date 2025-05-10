@@ -11,6 +11,10 @@ use the task management matrix to sort goals by their importance and urgency
 
 ## resources
 
+- [trafft: time mgmt matrix](https://trafft.com/time-management-matrix/)
+- [indeed: time mgmt matrix](https://www.indeed.com/career-advice/career-development/covey-time-management-matrix)
+- [jotform: time mgmt matrix](https://www.jotform.com/blog/time-management-matrix/)
+
 ## requirements
 
 make a copy of this [document]() and sort out the next week's priorities that
