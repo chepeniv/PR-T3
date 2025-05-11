@@ -20,33 +20,24 @@
 
 ## InStage Interview #1
 
-- [ ] add README
-
 # Intro to HIRED System
 - Partially Completed
-- [ ] add README
 
 ## Attend Networking Event
-
-- [ ] add README
 
 # Radical Candor
 - Partially Completed
 
 ## InStage Interview #2
 
-- [ ] add README
-
 # Reflection
 - Completed (Previously)
 
 ## InStage Interview #3
 
-- [ ] add README
-
 # Best Self Narrative
 - Never Started
-- update description md files
+- update and format description md files
 
 # Financial Literacy
 - Never Started
