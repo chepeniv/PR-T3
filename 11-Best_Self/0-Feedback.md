@@ -1,38 +1,35 @@
 # Gathering Feedback
 
-Choose:
+## choose:
 
-Choose 8-15 people to provide you with feedback. This can be friends, family,
-peers, co-workers, or former employers. It is ideal to find people who have
-known you in different environments, capacities, and times in your life.
+choose 8-15 people to provide you with feedback. it is ideal to find people who
+have known you in different environments, capacities, and times in your life.
 
-Create:
+## create:
 
-Create a Google form that includes:
+write a form that includes:
 
-	The names of the individual submitting the form A question asking them to
-	describe a time when you were at your Best Self
+- the names of the individual submitting the form
+- a question asking them to describe a time when you were at your best self
 
-Reach out:
+## reach out:
 
-Send an email or message including a link to a Google form to these 8-15 people.
-Make the body of the message short, asking them to give you quick feedback to
-help you with a project you’re doing to better understand your strengths. Ask
-them to fill out the form within the next week.
+send an invitation including a link to a google form to these 8-15 people.
+keep the message short, ask them to provide you with feedback for a project
+that aims to better understand your strengths. invite them to fill out this form
+within a week
 
-Collect:
+## collect:
 
-Throughout the week, keep an eye on the responses you’re getting. If you have
-trouble getting responses, follow up with a gentle reminder/request through the
-communication method that best fits the person you’re contacting.
+keep track of the responses you’re collecting. if you have trouble getting
+responses, follow up with a gentle reminder through whichever communication
+method best fits the person you’re contacting
 
-Submit:
+## submit:
 
-Submit a screenshot of the message you sent out to collect feedback and a link
-to the Google form you ask feedback be submitted through.
+submit a screenshot of the message you sent out and a link to the google form
 
-You will be graded on the following:
+## grading:
 
-	Submit a screenshot of the message you sent to collect feedback on your Best
-	Self. (1 point) Student submits a link to the google form they created to
-	receive feedback. (1 point)
+- submit a screenshot (1 point)
+- submits a link to google form (1 point)
