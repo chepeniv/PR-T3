@@ -9,43 +9,42 @@
   updating and modifying be enough for those ?
 - how soon can we complete the InStage interviews or any task for that mater ?
 
-# Email Best Practices
+# 01. Email Best Practices
 - READY
 
-# Goal Setting
+# 02. Goal Setting
 - Completed (Previously)
 
-# LiknedIn
+# 03. LiknedIn
 - Completed (Previously)
 
-## InStage Interview #1
+## 04. InStage Interview #1
 
-# Intro to HIRED System
+# 05. Intro to HIRED System
 - Partially Completed
 
-## Attend Networking Event
+## 06. Attend Networking Event
 
-# Radical Candor
+# 07. Radical Candor
 - Partially Completed
 
-## InStage Interview #2
+## 08. InStage Interview #2
 
-# Reflection
+# 09. Reflection
 - Completed (Previously)
 
-## InStage Interview #3
+## 10. InStage Interview #3
 
-# Best Self Narrative
+# 11. Best Self Narrative
 - Never Started
-- update and format description md files
+- UPDATE AND FORMAT DESCRIPTION MD FILES
 
-# Financial Literacy
+# 12. Financial Literacy
 - Never Started
-- update description md files
+- UPDATE AND FORMAT DESCRIPTION MD FILES
 
-# Resume First Draft
+# 13. Resume First Draft
 - Completed (Previously)
 
-# Professional LinkedIn Post
+# 14. Professional LinkedIn Post
 - Never Started
-- [ ] add README
