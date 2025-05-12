@@ -45,8 +45,8 @@ repayment
 
 ## resources
 
-[add links]
-oklahoma money matter budget tool zero-based budgeting: what it is and how
-to use it what is the ‘cash stuffing’ envelope system? the 50/30/20 budget
-rule explained with examples
+- [OK money matter budget tool](https://www.oklahomamoneymatters.org/calculator/default.aspx)
+- [zero-based budgeting](https://www.investopedia.com/terms/z/zbb.asp)
+- [cash stuffing envelope system](https://www.nerdwallet.com/article/finance/envelope-system)
+- [50/30/20 budget rule](https://www.investopedia.com/ask/answers/022916/what-502030-budget-rule.asp#:~:text=The%2050%2D30%2D20%20rule,The%20Ultimate%20Lifetime%20Money%20Plan.%22)
 
