@@ -21,8 +21,8 @@ my work and study life, the lack of adequate checklist management software on
 linux has disoriented me substantially. i aim to remedy this in the following
 months by building my own to suit my needs.
 
-## what is one thing you could stop doing that would also make a positive ##
-difference ?
+## what is one thing you could stop doing that would also make a positive
+## difference ?
 
 primarily, stop waking up and watching youtube. when stressed and burdened it's
 easy to do. if i'm otherwise feeling motivated and inspired by my work, then
