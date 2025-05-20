@@ -14,6 +14,7 @@
   hopeful about the future
 
 - these practices are essential when planning and organizing projects
+
 # description
 
 - build a repertoire of goal-setting and time-management tools suitable for you
