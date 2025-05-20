@@ -16,7 +16,28 @@ adjust the timeline as needed.
 
 # Subject Line:
 
+project status update - user profile information input
+
 # Body:
+
+Dear John Doe,
+
+because we have encountered unforeseen changes to the database schema, we might
+need to adjust our timeline somewhat
+
+here's what's completed thus far:
+
+- designed the user profile interface
+- implemented frontend form elements
+- developed input validation rules
+- set up backend logic to process submissions
+
+here's what's pending:
+
+- final unit testing
+- full deployment validation
+
+if you'd like a more detailed breakdown or to redirect our efforts, let me know.
 
 Regards,\
 Jose N. Olmos\

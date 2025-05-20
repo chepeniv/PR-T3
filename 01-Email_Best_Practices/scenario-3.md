@@ -14,7 +14,18 @@ confidence
 
 # Subject Line:
 
+Clarification Needed – Feedback Form Feature Requirements
+
 # Body:
+
+Dear John Doe,
+
+i’m currently working on the feedback form for the web application and i need
+some clarification on the implementation
+
+- what fields should the feedback form include ?
+- are there any validation rules or formatting expectations for the inputs ?
+- should users receive any confirmation after submitting the form ?
 
 Regards,\
 Jose N. Olmos\
