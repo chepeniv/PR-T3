@@ -1,4 +1,4 @@
-# priorities
+# week's priorities
 
 + i m p o r t a n t <
 u         |
@@ -9,11 +9,25 @@ n         |
 t   III   |   IV
 ^         |
 
-# quadrant I - important and urgent (CRISES|EXECUTE)
+# quadrant I - important and urgent (EXECUTE)
+
+attend workshops
+review assignments descriptions and resources
+prepare project directories and project files
+reach out and schedule time with Bri
 
 # quadrant II - not important yet urgent (DELEGATE)
 
-# quadrant III - important yet not urgent (MAINTENANCE|POSTPONE)
+review assignments descriptions and resources
+prepare project directories and project files
 
-# quadrant IV - not important and not urgent (ABANDON)
+# quadrant III - important yet not urgent (SCHEDULE)
 
+decide on and research file storage formats (json most likely)
+decide on and research c and c++ libraries for selected format
+whiteboard program flow
+build prototypes
+
+# quadrant IV - not important and not urgent (FREETIME)
+
+archive last trimester's work
