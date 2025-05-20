@@ -14,8 +14,6 @@ t   III   |   IV
 # quadrant I - important and urgent (EXECUTE)
 
 - attend workshops
-- review assignments descriptions and resources
-- prepare project directories and project files
 - reach out and schedule time with Bri
 
 # quadrant II - not important yet urgent (DELEGATE)
